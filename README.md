@@ -1,13 +1,23 @@
 # Basic_Python_Projects
 
-As Python
+__Hey guys, I have made some interesting projects by coding in <span style="color:red">Python</span> and also using some of its <span style="color:red">libraries</span> and <span style="color:red">modules</span>__
 
-1. ## Email_Slicer
+## Email_Slicer
 
-2. ## Hand_Cricket
+<span style="color:lime">Idea behind the project is to split the email address into two parts i.e User Name and Domain Name.</span>
 
-3. ## Rock_Paper_Scissors
+## Hand_Cricket
 
-4. ## Password_Generator
+<span style="color:lime">Objective behind the project is to implement a famous kids game which is hand cricket using random module.</span>
 
-5. ## Reminder_Notification 
+## Rock_Paper_Scissors
+
+<span style="color:lime">Objective behind the project is to implement a famous kids game which is Rock Paper Scissors</span>(and its different variants can also be implemented) <span style="color:lime">using random module.</span>
+
+## Password_Generator
+
+<span style="color:lime">Idea behind the project is to generate a powerfull password of any length.</span>
+
+## Reminder_Notification
+
+<span style="color:lime">Idea behind the project is to make a reminder_notification which will remind the user aftera particular tiemout.</span>
