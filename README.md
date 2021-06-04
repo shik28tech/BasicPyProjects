@@ -1,31 +1,39 @@
-# Basic_Python_Projects
+# PYTHON BASIC PROJECTS
 
-__Hello everyone, I have made some interesting real time projects in <span style="color:red">Python</span> and also using some of its <span style="color:red">libraries</span> and <span style="color:red">modules</span>__
+## ABOUT
 
-## Email_Slicer
+I have made some interesting real time projects using Python.
 
-<span style="color:lime">Idea behind the project is to split the email address into two parts i.e User Name and Domain Name.</span>
+## LIST OF PROJECTS
 
+- __Email Slicer__
 
-## Hand_Cricket
+    - The concept of the project is to divide the email address into two halves(username and domain name).
+    
+    - I have made the project using `slicing technique` in Python.
 
-<span style="color:lime">Objective behind the project is to implement a famous kids game which is hand cricket using random module.</span>
+- __Hand_Cricket__
 
-![pic1](https://user-images.githubusercontent.com/77436945/118632625-3c7f3080-b7ee-11eb-82e5-a8f08ac1f9f7.PNG)
+    - The concept of the project is to make a game which kids used to play at their teen ages.
 
-![pic2](https://user-images.githubusercontent.com/77436945/118632623-3be69a00-b7ee-11eb-97ee-413f3e97ce14.PNG)
+    ![pic1](https://user-images.githubusercontent.com/77436945/118632625-3c7f3080-b7ee-11eb-82e5-a8f08ac1f9f7.PNG)
 
-## Rock_Paper_Scissors
+    ![pic2](https://user-images.githubusercontent.com/77436945/118632623-3be69a00-b7ee-11eb-97ee-413f3e97ce14.PNG)
 
-<span style="color:lime">Objective behind the project is to implement a famous kids game which is Rock Paper Scissors</span>(and its different variants can also be implemented) <span style="color:lime">using random module.</span>
+- __Rock Paper Scissors__
 
-![p3](https://user-images.githubusercontent.com/77436945/118632614-3a1cd680-b7ee-11eb-8658-2f9e4d536c37.PNG)
+    - Another, interesting hand game made with `random` module in python
 
+    ![p3](https://user-images.githubusercontent.com/77436945/118632614-3a1cd680-b7ee-11eb-8658-2f9e4d536c37.PNG)
 
-## Password_Generator
+- __Password Generator__
 
-<span style="color:lime">Idea behind the project is to generate a powerfull password of any length.</span>
+    - The concept of the project is to generate a strong password of variable length(entered by user).
 
-## Reminder_Notification
+    - I have made the project using `string and random module` along with some `methods` in Python.
 
-<span style="color:lime">Idea behind the project is to make a reminder_notification which will remind the user aftera particular tiemout.</span>
+- __Reminder Notification__
+
+    - The concept of the project is to remind the user about a particular task at regular intervals.
+
+    - I have made the project using `plyer module` in Python.
